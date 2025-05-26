@@ -137,7 +137,7 @@ class ProfilePage extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   const Text(
-                    'Apakah anda yakin\nuntuk Keluar Sesi?',
+                    'Apakah anda yakin untuk logout?',
                     textAlign: TextAlign.center,
                   ),
                   const SizedBox(height: 20),
